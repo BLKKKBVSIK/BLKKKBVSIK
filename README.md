@@ -1,5 +1,6 @@
 ### Hi, I'm Enzo 👋
-![Comp_1_5](https://user-images.githubusercontent.com/20175372/87317512-678e5900-c527-11ea-8991-2035025a2fda.gif)
+![EnzoAnimoji](https://user-images.githubusercontent.com/20175372/87330405-d1fbc500-c538-11ea-8dca-55854d681b31.gif)
+
 
 ### About me: 
 I'm a french full-stack developer experimenting with Flutter and Dart.  
