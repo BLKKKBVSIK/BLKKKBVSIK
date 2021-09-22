@@ -1,4 +1,4 @@
-<img align='right' src="static/enzo_animated.gif" style="border-radius: 10%;" width="30%">
+<img align='right' src="static/animated_enzo.gif" style="border-radius: 10%;" width="30%">
 
 ## Hi, I'm Enzo 👋
 
