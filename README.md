@@ -1,10 +1,21 @@
-### Hi, I'm Enzo 👋
-![EnzoAnimoji](https://user-images.githubusercontent.com/20175372/87330405-d1fbc500-c538-11ea-8dca-55854d681b31.gif)
+<img align='right' src="static/enzo_animated.gif" style="border-radius: 10%;" width="30%">
+
+## Hi, I'm Enzo 👋
 
 
-### About me: 
-I'm a french full-stack developer experimenting with Flutter and Dart.  
+I'm a french developer experimenting with [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/).  
 Don't hesitate to reach out if you struggle with the content of one of my repositories
+
+I have developed various applications, from a B2C artist system to an application for monitoring blood glucose levels.  
+My varied set of skills allow me to offer the most adapted solution to an encountered problem.
+
+My experience extends from the design of mobile applications to their production.
+
+‣ I advise on technical choices.  
+‣ I design architecture.  
+‣ I develop your application.  
+
+Learn more about me:
 
 📝 You can find me writing tech articles on [Dev.to](https://dev.to/blkkkbvsik).   
 🤝 Or maybe making new contacts on [LinkedIn](https://www.linkedin.com/in/enzoconty/).   
