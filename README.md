@@ -1,4 +1,4 @@
-<img align='right' src="static/animated_enzo.gif" style="border-radius: 10%;" width="30%">
+<img align='right' src="static/animated_enzo.gif" style="border-radius: 10%;" width="20%">
 
 ## Hi, I'm Enzo 👋
 
@@ -22,3 +22,5 @@ Learn more about me:
 📱 Finally, I'm also on [Twitter](https://twitter.com/EnzoConty).   
 🧑‍💻 Got a question ? Send me an email at [contact@enzoconty.dev](mailto:contact@enzoconty.dev) or contact me through my [website](http://enzoconty.dev/).  
 
+
+<img height="250em" src="https://github-readme-stackoverflow.vercel.app/?userID=11550065&theme=dark" />
